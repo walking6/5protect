@@ -14,32 +14,32 @@ from googletrans import Translator
 
 kr1 = KRIS.LINE()
 #kr1.login(qr=True)
-kr1.login(token="Eov1SpnG44JIsZ4NVPg3.nBT543FxoLpZYt29i8ceSW.Iv95AOM9S26wrzPIJbMIu3eRL22kx/ZEpJS546zd/Gg=")#1
+kr1.login(token="EonNC1Qr7iDtlv47d078.z9WX+RtqV+CLQCfEbmJvYa.29Pj/nXh78jWaZtVn4Dlz0Aw2Qi0Usp845dYxyckI4Y=")#1
 kr1.loginResult()
 
 kr2 = KRIS.LINE()
 #kr2.login(qr=True)
-kr2.login(token="EojS4ETx2sOH00WfFjC5.4rKGviaiWRJ5DCBItMOEXq.mTYypZHV1YK4zETTOBfA9JyWW7zKHaO+mvxb3Kcgdr0=")#2
+kr2.login(token="EoYHDEHROo5XkqT1D6E4.0Rb8xRP01SQT8JW2BG0qra.NRk8F4aH0VVyVliePYGLvX290/gMvUYE303E23/5bmY=")#2
 kr2.loginResult()
 
 kr3 = KRIS.LINE()
 #kr3.login(qr=True)
-kr3.login(token="EoLPu0kDftICcM80Gmhd.P2aClM+I9p69+RZN6xQ4Vq.kOyPsJm7/dRxJrvSVMja1RAwPuGa0YOVuBjUYixjjLY=")#3
+kr3.login(token="Eot5HIihzRCzhDPOqtr4.x9i+ZcKnrCTncdU/cQj4na.+yEQbujRuKP/eaG/eg++H4ASA0rcCX5H1GibbkFpSgU=")#3
 kr3.loginResult()
 
 kr4 = KRIS.LINE()
 #kr4.login(qr=True)
-kr4.login(token="EouXNKxX6QsUznbGIW67.a4rbvxl6R/7QoeX2DrGgrW.2dihUHyqVpgXxOQ/iFXO4E3nzHqmx3XZQXWvqNvg4N8=")#4
+kr4.login(token="EooGL4CPhrmU9jPjuz73.8T1HtMmxpZnBlzFzh5m4aW.k8PHEjYLK+Egln+Yw2lGnOjcsujoDiOHhAIU25pz/DA=")#4
 kr4.loginResult()
 
 kr5 = KRIS.LINE()
 #kr5.login(qr=True)
-kr5.login(token="EoDp4XHbdX0r91qr8uzb.+i/EYC+vgrcMG1HqZG+0/W.H9sDu2/tvQWV7ECkDyIy4xdnOrm1+e0ScQRYTJHIufA=")#5
+kr5.login(token="Eoim0B6iRSC3zQaK33we.Z8u7JHOagIMP4RurQt9jhG.bv3wGDo+Afh12BWjGZuWR7sZWxUK6D9Vr8tmmlGTN9k=")#5
 kr5.loginResult()
 
 kr6 = KRIS.LINE()
 #kr6.login(qr=True)
-kr6.login(token="EoCpXFmrZhynmDAoLiP7.J+E+ZpnsMtHxl4GccBIhPW.T6XhbcDbYDmQiuDK78eIlSOOEwLposkrOtLEZ//dDKA=")#satpam
+kr6.login(token="Eon6l6bO251RupMZ7Hk8.1COZ+eyUW15GmPtAm/cuka.twJWS6kTzudSIOTTQCUDiMCeWOSuGhTFC9MfiZrIG/4=")#satpam
 kr6.loginResult()
 
 kr6 = kr5
@@ -50,12 +50,6 @@ sys.setdefaultencoding('utf-8')
 
 helpmsg ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
 ║╠❂➣facebook
 ║╠❂➣Youtube
 ║╠❂➣Yt
@@ -91,12 +85,6 @@ helpmsg ="""
 
 keymsg ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
 ║╠❂➣keypro
 ║╠❂➣keyself
 ║╠❂➣keygrup
@@ -108,12 +96,6 @@ keymsg ="""
 
 helppro ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
 ║╠❂➣mode on/off
 ║╠❂➣protect on/off
 ║╠❂➣qr on/off
@@ -124,12 +106,6 @@ helppro ="""
 
 helpself ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
 ║╠❂➣cctv on/off (Lurking)
 ║╠❂➣intip/toong (Lurkers)
 ║╠❂➣Setimage: (link)
@@ -180,12 +156,6 @@ helpself ="""
 
 helpset ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
 ║╠❂➣Gurl
 ║╠❂➣Grup cancel:
 ║╠❂➣share on/off
@@ -217,12 +187,6 @@ helpset ="""
 
 helpgrup ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
 ║╠❂➣Link on
 ║╠❂➣Url
 ║╠❂➣Cancel
@@ -295,12 +259,6 @@ helpgrup ="""
 
 helptranslate ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
 ║╠❂➣Translate-id
 ║╠❂➣Translate-en
 ║╠❂➣Translate-ar
@@ -327,12 +285,6 @@ helptranslate ="""
 
 helprhs ="""
 ╔═════════════
-║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
-╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
-╠═════════════
-║╔════════════
 ║╠❂➣Dadas
 ║╠❂➣ifconfig
 ║╠❂➣system
@@ -382,9 +334,9 @@ mid4 = kr4.getProfile().mid
 mid5 = kr5.getProfile().mid
 mid6 = kr6.getProfile().mid
 
-Bots=[mid,mid2,mid3,mid4,mid5,"ubd47e33f0bfa9782cbde32e03e3e0707"]
-owner=["ubd47e33f0bfa9782cbde32e03e3e0707"]
-admin=["ubd47e33f0bfa9782cbde32e03e3e0707",mid,mid2,mid3,mid4,mid5]
+Bots=[mid,mid2,mid3,mid4,mid5,"ubafe934229c328e2c606793900071c78"]
+owner=["ubafe934229c328e2c606793900071c78"]
+admin=["ubafe934229c328e2c606793900071c78",mid,mid2,mid3,mid4,mid5]
 
 wait = {
     'likeOn':False,
@@ -402,19 +354,19 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':True,
-    'message':"""Thx for add\n☆º°˚˚✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰º°˚˚☆""",
+    'message':"""Thx for add\n☆º°˚˚✰  Mortal ✰º°˚˚☆""",
     "lang":"JP",
-    "comment":"👉ąµţ๏ℓɨЌ€ By C-A_Bot😊\n\n☆º°˚˚✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰º°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by Kris ⭐👈 »»» http://line.me/ti/p/~krissthea «««",
+    "comment":"👉ąµţ๏ℓɨЌ€ By ✰ »»» Mortal ««« ✰（＾ω＾) ",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "cNames1":"↝↬₡αβ↫↜",
-    "cNames2":"↝↬₡αβ↫↜",
-    "cNames3":"↝↬₡αβ↫↜",
-    "cNames4":"↝↬₡αβ↫↜",
-    "cNames5":"↝↬₡αβ↫↜",
+    "cNames1":"Mortal1",
+    "cNames2":"Mortal2",
+    "cNames3":"Mortal3",
+    "cNames4":"Mortal4",
+    "cNames5":"Mortal5",
     "Wc":False,
     "Lv":False,
     "MENTION":True,
@@ -4974,7 +4926,7 @@ def bot(op):
             if wait["Lv"] == True:
                 if op.param2 in Bots:
                     return
-                kr1.sendText(op.param1, "╔═════════════\n║Baper Tuh Orang :v \n║Semoga Bahagia ya 😊 \n╚═════════════")
+                kr1.sendText(op.param1, "╔═════════════\n║Yaaahh ada yang leave :v \n║Selamat tinggal 😊 \n╚═════════════")
                 print "MEMBER HAS LEFT THE GROUP"
 #------------------------------------------------------------------------------#
 
@@ -5032,7 +4984,7 @@ def likefriend():
       if hasil['result']['posts'][zx]['postInfo']['liked'] == False:
         try:
           kr1.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1001)
-          kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By C-A_Bot😊\n\n☆º°˚˚✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰º°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by Kris ⭐👈 »»» http://line.me/ti/p/~krissthea «««")
+          kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By ✰ »»» Mortal ««« ✰（＾ω＾)")
           print "Like"
         except:
           pass
@@ -5047,7 +4999,7 @@ def likeme():
             if hasil['result']['posts'][zx]['userInfo']['mid'] in mid:
                 try:
                     kr1.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1002)
-                    kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By C-A_Bot😊\n\n☆º°˚˚✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰º°˚˚☆（＾ω＾）\nąµţ๏ℓɨЌ€ by Kris ⭐👈 »»» http://line.me/ti/p/~krissthea «««")
+                    kr1.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"👉ąµţ๏ℓɨЌ€ By ✰ »»» Mortal ««« ✰（＾ω＾)")
                     print "Like"
                 except:
                     pass
