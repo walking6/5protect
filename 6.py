@@ -38,7 +38,7 @@ kr5.login(token="EoDp4XHbdX0r91qr8uzb.+i/EYC+vgrcMG1HqZG+0/W.H9sDu2/tvQWV7ECkDyI
 kr5.loginResult()
 
 kr6 = KRIS.LINE()
-kr6.login(qr=True)
+#kr6.login(qr=True)
 kr6.login(token="EoCpXFmrZhynmDAoLiP7.J+E+ZpnsMtHxl4GccBIhPW.T6XhbcDbYDmQiuDK78eIlSOOEwLposkrOtLEZ//dDKA=")#satpam
 kr6.loginResult()
 
@@ -382,9 +382,9 @@ mid4 = kr4.getProfile().mid
 mid5 = kr5.getProfile().mid
 mid6 = kr6.getProfile().mid
 
-Bots=[mid,mid2,mid3,mid4,mid5,"ubd4733f0bfa9782cbde32e03e3e0707"]
-owner=["ubd4733f0bfa9782cbde32e03e3e0707"]
-admin=["ubd4733f0bfa9782cbde32e03e3e0707",mid,mid2,mid3,mid4,mid5]
+Bots=[mid,mid2,mid3,mid4,mid5,"ubd47e33f0bfa9782cbde32e03e3e0707"]
+owner=["ubd47e33f0bfa9782cbde32e03e3e0707"]
+admin=["ubd47e33f0bfa9782cbde32e03e3e0707",mid,mid2,mid3,mid4,mid5]
 
 wait = {
     'likeOn':False,
